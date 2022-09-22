@@ -7,6 +7,8 @@ public partial class AllNotesPage : ContentPage
         InitializeComponent();
 
         BindingContext = new Models.AllNotes();
+        label.BindingContext = slider;
+        label.SetBinding(Label.RotationXProperty, "Value");
     }
 
     protected override void OnAppearing()

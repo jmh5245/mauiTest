@@ -195,6 +195,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -2138,6 +2141,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
@@ -4083,6 +4089,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -6026,6 +6035,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
@@ -7971,6 +7983,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -9721,7 +9736,7 @@
         }
       }
     },
-    "net6.0-android31.0/iossimulator-x64": {
+    "net6.0-android31.0/ios-arm64": {
       "GoogleGson/2.9.0.1": {
         "type": "package",
         "compile": {
@@ -9914,6 +9929,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
@@ -11859,6 +11877,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -13803,6 +13824,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -15725,6 +15749,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -15940,6 +15967,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
@@ -16157,6 +16187,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -16372,6 +16405,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
@@ -16589,6 +16625,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -16633,7 +16672,7 @@
         }
       }
     },
-    "net6.0-ios15.4/iossimulator-x64": {
+    "net6.0-ios15.4/ios-arm64": {
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -16804,6 +16843,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
@@ -17021,6 +17063,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -17236,6 +17281,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
@@ -17453,6 +17501,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -17668,6 +17719,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
@@ -17885,6 +17939,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -18100,6 +18157,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
@@ -18317,6 +18377,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -18361,7 +18424,7 @@
         }
       }
     },
-    "net6.0-maccatalyst15.4/iossimulator-x64": {
+    "net6.0-maccatalyst15.4/ios-arm64": {
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -18532,6 +18595,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
@@ -18749,6 +18815,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -18964,6 +19033,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
@@ -19228,6 +19300,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
@@ -19556,6 +19631,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
         "build": {
@@ -19868,6 +19946,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
@@ -20182,6 +20263,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
         "build": {
@@ -20495,6 +20579,9 @@
           }
         }
       },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
+      },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
         "build": {
@@ -20602,7 +20689,7 @@
         }
       }
     },
-    "net6.0-windows10.0.19041/iossimulator-x64": {
+    "net6.0-windows10.0.19041/ios-arm64": {
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -20807,6 +20894,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
@@ -21120,6 +21210,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
@@ -21436,6 +21529,9 @@
             "related": ".pdb"
           }
         }
+      },
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+        "type": "package"
       },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
@@ -21870,6 +21966,21 @@
         "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.pdb",
         "microsoft.maui.graphics.win2d.winui.desktop.6.0.403.nupkg.sha512",
         "microsoft.maui.graphics.win2d.winui.desktop.nuspec"
+      ]
+    },
+    "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100/6.0.9": {
+      "sha512": "I1kCHtu6u8Y7EhsBgqR6YHmXL9Z9vTGRYOKG+As7mfP3D79ZhPJHYmmTKECEMNJglSrg9LVl1+MQlYBjTEU8tw==",
+      "type": "package",
+      "path": "microsoft.net.workload.emscripten.manifest-6.0.100/6.0.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE",
+        "data/WorkloadManifest.json",
+        "data/WorkloadManifest.targets",
+        "microsoft.net.workload.emscripten.manifest-6.0.100.6.0.9.nupkg.sha512",
+        "microsoft.net.workload.emscripten.manifest-6.0.100.nuspec"
       ]
     },
     "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
@@ -24548,21 +24659,25 @@
   "projectFileDependencyGroups": {
     "net6.0-android31.0": [
       "Microsoft.Maui.Dependencies >= 6.0.486",
-      "Microsoft.Maui.Extensions >= 6.0.486"
+      "Microsoft.Maui.Extensions >= 6.0.486",
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100 >= 6.0.9"
     ],
     "net6.0-ios15.4": [
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100 >= 6.0.9",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-maccatalyst15.4": [
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100 >= 6.0.9",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-windows10.0.19041": [
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
+      "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100 >= 6.0.9",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194"
     ]
   },
@@ -24636,6 +24751,10 @@
             "target": "Package",
             "version": "[6.0.486, )",
             "autoReferenced": true
+          },
+          "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100": {
+            "target": "Package",
+            "version": "[6.0.9, )"
           }
         },
         "imports": [
@@ -24680,6 +24799,10 @@
             "target": "Package",
             "version": "[6.0.486, )",
             "autoReferenced": true
+          },
+          "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100": {
+            "target": "Package",
+            "version": "[6.0.9, )"
           },
           "System.Runtime.InteropServices.NFloat.Internal": {
             "target": "Package",
@@ -24730,6 +24853,10 @@
             "version": "[6.0.486, )",
             "autoReferenced": true
           },
+          "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100": {
+            "target": "Package",
+            "version": "[6.0.9, )"
+          },
           "System.Runtime.InteropServices.NFloat.Internal": {
             "target": "Package",
             "version": "[6.0.1, )",
@@ -24779,6 +24906,10 @@
             "target": "Package",
             "version": "[6.0.486, )",
             "autoReferenced": true
+          },
+          "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100": {
+            "target": "Package",
+            "version": "[6.0.9, )"
           },
           "Microsoft.Windows.SDK.BuildTools": {
             "suppressParent": "All",
@@ -24849,7 +24980,7 @@
       "android-x86": {
         "#import": []
       },
-      "iossimulator-x64": {
+      "ios-arm64": {
         "#import": []
       },
       "maccatalyst-x64": {

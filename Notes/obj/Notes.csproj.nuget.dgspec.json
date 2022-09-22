@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[6.0.486, )",
               "autoReferenced": true
+            },
+            "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100": {
+              "target": "Package",
+              "version": "[6.0.9, )"
             }
           },
           "imports": [
@@ -114,6 +118,10 @@
               "target": "Package",
               "version": "[6.0.486, )",
               "autoReferenced": true
+            },
+            "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100": {
+              "target": "Package",
+              "version": "[6.0.9, )"
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
@@ -164,6 +172,10 @@
               "version": "[6.0.486, )",
               "autoReferenced": true
             },
+            "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
               "version": "[6.0.1, )",
@@ -213,6 +225,10 @@
               "target": "Package",
               "version": "[6.0.486, )",
               "autoReferenced": true
+            },
+            "Microsoft.NET.Workload.Emscripten.Manifest-6.0.100": {
+              "target": "Package",
+              "version": "[6.0.9, )"
             },
             "Microsoft.Windows.SDK.BuildTools": {
               "suppressParent": "All",
@@ -283,7 +299,7 @@
         "android-x86": {
           "#import": []
         },
-        "iossimulator-x64": {
+        "ios-arm64": {
           "#import": []
         },
         "maccatalyst-x64": {
